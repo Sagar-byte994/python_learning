@@ -30,4 +30,5 @@
 
 n = 5
 
-fori in range
+for i in range(0, 10):
+    pass
