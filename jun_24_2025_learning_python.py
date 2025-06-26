@@ -28,17 +28,7 @@
 #      pass
 # print("some useful work")
 
-
-
-"""
-sir ye chal nahi raha
-
-"""
-
-'''
-sir ye chal nahi raha
-'''
-n = 5
-
-for i in range(0, 10): # i think error in this code
-    pass
+# n = 5
+#
+# for i in range(0, 10):
+#     pass
